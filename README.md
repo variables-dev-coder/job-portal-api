@@ -216,11 +216,3 @@ Java Backend Developer | Spring Boot | REST APIs | Problem Solving
 📄 License
 
 This project is created for learning, portfolio, and demonstration purposes.
-
-
-### তারপর
-
-Save করো:
-
-```text
-Ctrl + S
